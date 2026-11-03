@@ -1,8 +1,9 @@
 <img width="1920" height="1080" alt="Purple Futuristic Technology Presentation" src="https://github.com/user-attachments/assets/41aed666-4301-4530-9c1a-7e9e64630e2a" />
+
 ___
 ### About me
 
-My name is Carlos Josue Cruz Peguero and I am 20 years old. I am a ```diff @@ Software Engineering@@``` 
+My name is Carlos Josue Cruz Peguero and I am 20 years old. I am a ```@@ Software Engineering@@``` 
 student who is passionate about the development of technological solutions, as well as the 
 defense of those solutions. Throughout my academic training, I have been acquiring knowledge 
 in various technologies, tools, skills and programming languages. I have the ability to work in a 
