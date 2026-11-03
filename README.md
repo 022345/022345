@@ -17,8 +17,10 @@ courses on the Google Skills platform, which are: Beginner: Google Cloud Cyberse
 Certificate and Professional Network Engineer Certification.
 ___
 ### Technologies/Stack
-
+[![.NET Core](https://shields.io)](https://github.com)
+[![ASP.NET Core](https://shields.io)](https://github.com)
+[![Rust](https://shields.io)](https://github.com)
 ___
 ### Contact
 
-LinkedIn: [LINKEDIN]("https://www.linkedin.com/in/carlos-josu%C3%A9-cruz-peguero-a073562b7/?locale=en-US")
+![LINKEDIN]("https://www.linkedin.com/in/carlos-josu%C3%A9-cruz-peguero-a073562b7/?locale=en-US")
