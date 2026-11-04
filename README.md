@@ -45,12 +45,12 @@ ___
   </div>
 
   <div class="NoSQL" justify="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-white?logo=mongodb&logoColor=green&logoSize=25&style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-lightgray?logo=mongodb&logoColor=green&logoSize=25&style=for-the-badge">
   </div>
 </div>
 
 <div justify="center">
-  <p><strong>Operative System</p>
+  <p><strong>Operative System</strong></p>
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-orange?logo=linux&logoColor=black&style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kali--Linux-blue?logo=kalilinux&logoColor=white&logoSize=25&style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Debian-red?logo=debian&logoColor=white&logoSize=25&style=for-the-badge">
@@ -61,14 +61,28 @@ ___
 ___
 
 <div class="Cybersecurity">
-  <p>I like cybersecurity. I like the idea of interfacing with systems, protecting them, analyzing them (part of why I mentioned scanners previously) and my favorite parts are using tools like wireshark or nmap and read</p>
+  <h2 class="technologies" align="center">Cybersecurity</h2>
+  <p>I like cybersecurity. I like the idea of interfacing with systems, protecting them, analyzing them (part of why I mentioned scanners previously) and my favorite parts   are using tools like Wireshark or Nmap and read frameworks like <strong>NIST SP 800-53 R-5</strong> or the <strong>The NIST (CSF) 2.0</strong>. I've found these books in   courses and classes in my university and I have been reading them and learning about them and how to use them to protect systems and information, understand how to         protect from risks and respond to cyber attacks and finally understand the cybersecurity standards. I do like to follow standards even for programming.</p>
+
+  <p>I plan to accomplish more things like:</p>
+
+  - 🔬 Complete more labs (I've only completed Meow for now)
+  - ⚒️ Create programs that allow me to apply what I've studied
+  - 💻 Create tools that perform effective tasks like scanning a pc and all of it's ports or sending alerts if it find something odd
+  - 🚩 Complete my cybersecurity courses
+  - 🛜 Learn more about networking studying the Cisco CCNA. I understand the basics but I want to do more, like designing networks or learning about the tools to manage networks.
 </div>
+
 ___
 
 <h2 align="center">Link... you must Find Me (zelda reference)</h2>
-- You can always find me coding or completing labs 😂
+
+- You can always find me coding or completing labs 😂. Or completing coding problems 🛠️
+  <a href="https://app.hackthebox.com/public/users/3644982" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/HackTheBox-D4FF0F?logo=hackthebox&logoColor=blue&logoSize=25&style=for-the-badge"></a>
+
+  <a href="https://app.hackthebox.com/public/users/3644982" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/HackTheBox-D4FF0F?logo=hackthebox&logoColor=blue&logoSize=25&style=for-the-badge"></a>
 - (I'm working in my portfolio)
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-D4FF0F?logo=&logoColor=blue&logoSize=25&style=for-the-badge"></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-07007D?logo=&logoColor=blue&logoSize=25&style=for-the-badge"></a>
 - If you want to recruit me, you can see my Linkedin!
   <a href="https://www.linkedin.com/in/carlos-josué-cruz-peguero-a073562b7" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=blue&logoSize=25&style=for-the-badge"></a>
 - If you want to talk to me, ask me anything you can send me an email!
