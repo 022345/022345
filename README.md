@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Purple Futuristic Technology Presentation" src="https://github.com/user-attachments/assets/41aed666-4301-4530-9c1a-7e9e64630e2a" />
+<img width="1920" height="1080" alt="Green Professionl Geometric Hexagon Research Project Presentation (1)" src="https://github.com/user-attachments/assets/51e5190f-0f03-48f2-8622-74441cb6fa12" />
 
 ___
 <h2 align="center">About Me</h2>
@@ -26,7 +26,7 @@ ___
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&logoSize=25&style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&logoSize=25&style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/jira-blue?logo=jira&logoColor=white&logoSize=25&style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/figma-magenta?logo=figma&logoColor=white&logoSize=25&style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/figma-red?logo=figma&logoColor=blue&logoSize=25&style=for-the-badge">
 </div>
 
 <div class="database">
@@ -52,31 +52,17 @@ ___
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu--server-orange?logo=ubuntu&logoColor=white&logoSize=25&style=for-the-badge">
 </div>
 
-                                                               @+*###########%%                     
-                                                           %=*##################+                  
-                                                         #=#########%##@#########%:                
-                                                        #+#######%*################%                
-                                                       #*######@*###########@#######@              
-                                                      ######*###################@#####             
-                                                   :+###@+#########################@#@#%            
-                                                   *###@%#########################%#%%%#@          
-                                                  #+##%#+%########################%+%@%%%#         
-                                                  *@##%#+#%##########%%#########%####%%%%%          
-                                                  *####%#+*==-%%###%---=####%*---%##@###%@          
-                                                  *#####%#%+====-----------===-+=%%#####%%          
-                                                  %*%*####%#%*----------======+@#######%%#         
-                                                   #*#@@%###@#+%-------====-#%#%###@@%#%@           
-                                                    %%##@@@##%#%*-----====+=#%%##@@@%%%#            
-                                                      #@#@###%@#%+=-=====+=#%@%%%%@%%@             
-                                                         @%%#@@%##======#+##%%@%#@@                
-                                                            ####@##====#*#%@%%#-                  
-                                                              ###*##+@@+#%@%#+                     
-                                                                 @*%####@@%                        
-                                                                 -=%####@%:                         
-                                                                  %*@##%%#                          
+___
+<h2 align="center">Cybersecurity</h2>
+
+<div>
+  
+</div>
 
 ___
-<h2 align="center">Contact</h2>
+<h2>Link... you must Find Me (zelda reference)</h2>
 
+<p>You can always find me coding or completing labs 😂</p>
+<p>If you want to recruit me, you can see my Linkedin! Or if you want to talk to me, ask me anything you can send me an email! <strong>(I'm working in my portfolio)</strong></p>
 
-# (On development College doesn't leave much time)
+<a href="https://www.linkedin.com/in/carlos-josué-cruz-peguero-a073562b7" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=blue&logoSize=25&style=for-the-badge"></a>
