@@ -25,8 +25,8 @@ ___
     <img alt="Static Badge" src="https://img.shields.io/badge/go-cyan?logo=go&logoColor=white&logoSize=25&style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/python-darkblue?logo=python&logoColor=yellow&logoSize=25&style=for-the-badge">
   </div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white&logoSize=25&style=for-the-badge">
 </div>
-
 <div class="tools">
   <p><strong>Tools</strong></p>
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&logoSize=25&style=for-the-badge">
