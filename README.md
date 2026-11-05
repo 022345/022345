@@ -5,7 +5,7 @@ ___
 
 - 👋🏽 My name is Carlos Josue Cruz Peguero, I'm 21 years old nice to meet you 🫱🏼‍🫲🏼
 - 🏫 <strong>I'm a Software Engineering student</strong> at <strong>APEC University</strong> in Santo Domingo, Dominican Republic.
-- 🧑🏽‍🎓 Thank God I am an English graduate from the APEC University Language School <strong>with a physical Diploma</strong>. Spanish is my mother tongue, but I can also speak fluent English.
+- 🧑🏽‍🎓 Thank God I am an English graduate from the APEC University Language School <strong>with a physical Diploma</strong>. Spanish is my mother tongue, but I can also speak fluent English <strong>(I'm not using AI to write any of this)</strong>.
 - ⚡ I have the ability to work in a team and have special care about soft skills.
 - 🚀 ⚙️I like to create software applications that can <strong>offer solutions to problems</strong> or situations. Also like to build infrastructures and programs that can do more than just a task, but amazing things like scanners, analyzers, APIs, projects that interact with Networks and applications that can cypher information or automatize actions.
 - 👨🏽‍💻 I am a seniors student at APEC University.             
@@ -78,12 +78,60 @@ ___
 <h2 align="center">Link... you must Find Me (zelda reference)</h2>
 
 - You can always find me coding or completing labs 😂. Or completing coding problems 🛠️
-  <a href="https://app.hackthebox.com/public/users/3644982" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/HackTheBox-D4FF0F?logo=hackthebox&logoColor=blue&logoSize=25&style=for-the-badge"></a>
-
-  <a href="https://app.hackthebox.com/public/users/3644982" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/HackTheBox-D4FF0F?logo=hackthebox&logoColor=blue&logoSize=25&style=for-the-badge"></a>
+  <a href="https://app.hackthebox.com/public/users/3644982" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/HackTheBox-D4FF0F?logo=hackthebox&logoColor=blue&logoSize=25&style=for-the-badge"></a> <a href="https://leetcode.com/u/carloscruz03/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=black&logoSize=25&style=for-the-badge"></a>
 - (I'm working in my portfolio)
   <a><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-07007D?logo=&logoColor=blue&logoSize=25&style=for-the-badge"></a>
 - If you want to recruit me, you can see my Linkedin!
   <a href="https://www.linkedin.com/in/carlos-josué-cruz-peguero-a073562b7" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=blue&logoSize=25&style=for-the-badge"></a>
 - If you want to talk to me, ask me anything you can send me an email!
   <a href="mailto:cjjosue03@gmail.com"><img alt="GMail Badge" src="https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=blue&logoSize=25&style=for-the-badge"></a>
+
+___
+                                                                     #=-*#                                 
+                                                                    =#--##=                                
+                                                                    =#=-#%+                                
+                                                                    =#==#%+                                
+                                                                    =%==#%+                                
+                                                                    =%**%%+                                
+                                                                    =#*+#%=                                
+                                                                    =#==#%+                                
+                                                                    =#--##=                                
+                                                                    =#--#%+                                
+                                                                    =#==#%+                                
+                                                              %%%@%%=%==#%+%@@#%%                          
+                                                           @@%#%##@@%%#*%%%@%##%#%@%                       
+                                                          @%#%######%%++*%%######%#%@                      
+                                                         @%%%##*  %#+=-==--#%  *##%#%@                     
+                                                         %%%###    #***===++    ##%%%%                     
+                                                                   --=++====                               
+                                                                  :-==++====+                              
+                                                                  ===++======                              
+                                                                  ====+======                              
+                                                                  ====+======                              
+                                                                  ====+======                              
+                                                                  ===========                              
+                                                                  ===========                              
+                                                                  ======-----                              
+                                                                  =====------                              
+                                                                  =-===------                              
+                                                                  =----------                              
+                                                                  -----------                              
+                                                                  ------:----                              
+                                                                  -----::::::                              
+                                                                  -----::::::                              
+                                                                  -::::::::::                              
+                                                                  :::::::::::                              
+                                                                  ::::::::...                              
+                                                                                                           
+                                                         .  ..      .        . .  .                        
+                                               . .    ..   .:...--::-:=%-::.:-....:  .::  .  .             
+                                              ..-:. . .-::-:--:.=-::-=###=:.-=::-:-:..-:  ..-:  .          
+                                             :..--:...:--.::=-::===:#######:---:::=-::---.:.-::...         
+                                            -:::---:.:-==---=--===*#########*++-=-=------.::=--.:-=        
+                                          ===-------:-====+:-==++%############+++--=====---:---:-===       
+                                         =+====-====--==+++=-+=*#+=+==+======+#*+-=+-==========--==+++     
+                                        ==+++++=+=+=+++**+===+##%##*++++*+++*%%##==+=+++*+==++++++++*+=    
+                                       =+++++++++++++++*+++=*###%###++*****%#%####*+++*+++=+++*+++**+++=   
+                                      +****+++++****+++****#########################**++++++***+++****+++  
+                                    -**********###*******###########%%%%###%#%#######******###************ 
+                                    #####*##*##############*#####*##########*####*#####*##########*########
